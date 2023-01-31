@@ -1,2 +1,3 @@
 # prep-course
-este es un ejerciso de henry
+tomas moukarzel 
+este proyecto es sobre como clonar un commit
